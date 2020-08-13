@@ -1,4 +1,4 @@
-# Original Carcassonne Tiles for [Board Game Arena](https://boardgamearena.com)
+# Original Carcassonne Tiles for Board Game Arena
 
 A [Tampermonkey](https://www.tampermonkey.net/) script that displays the original/old-style tiles while playing [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne) at [Board Game Arena](https://boardgamearena.com).
 
