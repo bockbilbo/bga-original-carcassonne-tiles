@@ -10,5 +10,5 @@
 
 (function() {
     'use strict';
-    GM_addStyle (".second_edition { background-image: url('https://raw.githubusercontent.com/bockbilbo/bga-original-carcassonne-tiles/master/original-tiles.jpg') !important; }");
+    GM_addStyle (".second_edition { background-image: url('https://raw.githubusercontent.com/bockbilbo/bga-original-carcassonne-tiles/master/img/original-tiles.jpg') !important; }");
 })();
