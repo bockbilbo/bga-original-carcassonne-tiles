@@ -2,6 +2,8 @@
 
 A [Tampermonkey](https://www.tampermonkey.net/) script that displays the original/old-style tiles while playing [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne) at [Board Game Arena](https://boardgamearena.com).
 
+![Image of the game](https://github.com/bockbilbo/bga-original-carcassonne-tiles/raw/master/img/gameplay.jpg)
+
 ### Aren't the original tiles available at the site?
 
 Yes, but some of them are missing.
